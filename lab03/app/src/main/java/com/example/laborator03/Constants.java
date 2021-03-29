@@ -17,4 +17,5 @@ public class Constants {
     };
 
     public final static int PERMISSION_REQUEST_CALL_PHONE = 1;
+    public final static int CONTACTS_MANAGER_REQUEST_CODE = 2017;
 }
